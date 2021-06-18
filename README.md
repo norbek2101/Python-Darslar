@@ -1,1 +1,1 @@
-# davlat
+# Pythonda bajarilgan topshiriqlar
